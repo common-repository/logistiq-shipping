@@ -1,0 +1,38 @@
+{
+  "name": "logistiq-shipping",
+  "version": "1.4.4",
+  "description": "Automate the Woocommerce shipping experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "robert jenifer vilbert < Robert.Vilbert@logistiq.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^23.7.2"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@fontsource/roboto": "^4.5.7",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/lab": "^5.0.0-alpha.89",
+    "@mui/material": "^5.8.6",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "@mui/x-data-grid": "^5.12.3",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.1",
+    "js-file-download": "^0.4.12",
+    "moment": "^2.29.3",
+    "react-bootstrap": "^2.4.0",
+    "react-swipeable-views": "^0.14.0",
+    "react-use-iframe-content-height": "^1.0.2",
+    "store-js": "^2.0.4",
+    "storejs": "^2.0.1",
+    "styled-components": "^5.3.5"
+  }
+}

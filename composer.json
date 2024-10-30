@@ -1,0 +1,19 @@
+{
+    "name": "logistiq/shipping",
+    "description": "Automate the Woocommerce shipping experience",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-only / GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Logistiq\\Shipping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert Jenifer Vilbert",
+            "email": "robert.vilbert@logistiq.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
